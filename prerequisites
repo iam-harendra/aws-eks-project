@@ -1,0 +1,6 @@
+Install AWS CLI using below link
+https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/setting-up-cli.html
+Install AWS EKS using below link
+https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/setting-up-eksctl.html
+Install kubeclt using below link
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
